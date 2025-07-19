@@ -26,3 +26,4 @@ exports.getTodo = async(req, res) => {
 }
 
 
+// we can write another controller on the same page also but for better readability i will create another controller in another file.
